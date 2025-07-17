@@ -6,3 +6,6 @@ A personal music management tool designed for educational and archival purposes.
 ## License
 This project is licensed under a custom [MIT Non-Commercial License](LICENSE.md).  
 **Use is restricted to non-commercial, educational, or personal purposes only.**
+
+## Software needed
+ngrok account at [ngrok installation] (ngrok_install.md)
