@@ -16,7 +16,7 @@ This project is licensed under a custom [MIT Non-Commercial License](LICENSE.md)
 
 * Spotify Developer Account: Free to create at [this link](https://developer.spotify.com/dashboard) or developer.spotify.com. Follow the installation instructions to set up your credentials.
 
-* Portable versions included: Python, FFmpeg, and yt-dlp come bundled; no additional installation required.
+* Portable versions included: Python, FFmpeg, spotipy, and yt-dlp come bundled; no additional installation required.
 
 * Thanks for checking out PlaylistSnatcher! Feel free to open issues or contribute.
 
