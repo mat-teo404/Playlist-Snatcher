@@ -1,7 +1,7 @@
-# PlaylistSnatcher
+# PlaylistRipper
 
 ## Overview
-PlaylistSnatcher helps you access higher-quality audio for your Spotify playlists by using yt-dlp to download the best available audio formats from YouTube (currently defaults to M4A). It’s designed as a personal music management tool to improve your listening experience on your own devices.
+PlaylistRipper helps you access higher-quality audio for your Spotify playlists by using yt-dlp to download the best available audio formats from YouTube (currently defaults to M4A). It’s designed as a personal music management tool to improve your listening experience on your own devices.
 
 ## Disclaimer
 This software is intended for educational and personal use only. It allows users to organize and explore their Spotify playlists and profile data locally with better bitrate and codec options.
@@ -18,7 +18,7 @@ This project is licensed under a custom [MIT Non-Commercial License](LICENSE.md)
 
 * Portable versions included: Python, FFmpeg, spotipy, and yt-dlp come bundled; no additional installation required.
 
-* Thanks for checking out PlaylistSnatcher! Feel free to open issues or contribute.
+* Thanks for checking out PlaylistRipper! Feel free to open issues or contribute.
 
 ## Installation
 
@@ -30,7 +30,7 @@ This project is licensed under a custom [MIT Non-Commercial License](LICENSE.md)
 
 2. go to spotify's developer dashboard and create an app, then put in your ngrok redirect domain name in as **Https://(your ngrok domain.app)/callback** and turn on web api and web playback sdk (may not be needed, but they worked for me)
 
-3. go into PlaylistSnatcher\config.json and input your spotify client id and client secret id (both in spotify dev app), then put in the redirect uri **Https://(your ngrok domain.app)/callback**, your authtoken [here](https://dashboard.ngrok.com/get-started/your-authtoken), and your ngrok domain [here](https://dashboard.ngrok.com/domains)
+3. go into PlaylistRipper\config.json and input your spotify client id and client secret id (both in spotify dev app), then put in the redirect uri **Https://(your ngrok domain.app)/callback**, your authtoken [here](https://dashboard.ngrok.com/get-started/your-authtoken), and your ngrok domain [here](https://dashboard.ngrok.com/domains)
 
 4. run the *Playlist Snatcher.exe*
 
