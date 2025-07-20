@@ -41,3 +41,5 @@ This project is licensed under a custom [MIT Non-Commercial License](LICENSE.md)
 <img width="1411" height="816" alt="Screenshot 2025-07-18 194936" src="https://github.com/user-attachments/assets/74d30de4-0fe1-46e1-9678-fa24e1621a54" />
 
 6. it will take about a minute or so after to open up the GUI, I have had various boot timings so give it a bit before you start troubleshooting. I am using windows 11, and have not tried on W10, but I'm assuming it works on there
+
+7. the default codec is .m4a, but you can change it in the dropdown menu, I am still working on making the audio encoding better, but with the songs I have tested it has been ~390kbps
